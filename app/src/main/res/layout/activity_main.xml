@@ -8,9 +8,10 @@
     android:textStyle="bold"
     android:textSize="30sp"
     android:id="@+id/btnClick"
-    android:layout_centerInParent="true"
+    android:layout_centerHorizontal="true"
+    android:layout_alignParentBottom="true"
     android:text="Show Custom Toast"
     android:layout_width="wrap_content"
-    android:layout_height=" wrap_content" />
+    android:layout_height="wrap_content" />
 
 </RelativeLayout>
